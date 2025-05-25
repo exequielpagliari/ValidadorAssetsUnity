@@ -1,11 +1,11 @@
 {
-  "name": "com.exepa.texture-auditor", // ¡MUY IMPORTANTE! Formato com.yourcompany.your-package-name
-  "version": "0.0.1", // Versión actual de tu paquete (usa SemVer: Mayor.Menor.Patch)
-  "displayName": "Texture & Material Auditor", // Nombre amigable que aparecerá en Unity
-  "description": "A simple Unity editor tool to audit textures and materials for optimization issues like empty metallic maps, unoptimized AO, and more.", // Descripción detallada
-  "unity": "2022.3", // Versión mínima de Unity soportada
-  "unityRelease": "17f1", // Release específico de Unity (opcional, pero útil para evitar incompatibilidades)
-  "keywords": [ // Palabras clave para búsquedas
+  "name": "com.exepa.texture-auditor", 
+  "version": "0.0.1", 
+  "displayName": "Texture & Material Auditor",
+  "description": "A simple Unity editor tool to audit textures and materials for optimization issues like empty metallic maps, unoptimized AO, and more.", 
+  "unity": "2022.3", 
+  "unityRelease": "17f1", 
+  "keywords": [ 
     "unity",
     "gamedev",
     "tools",
@@ -17,14 +17,14 @@
     "pbr",
     "shader"
   ],
-  "author": { // Información del autor
+  "author": { 
     "name": "Exepa",
-    "email": "exepa@hotmai.com",
+    "email": "exepa@hotmai.com"
 
   },
-  "license": "MIT", // Licencia del paquete (ej. MIT, Apache-2.0)
-  "documentationUrl": "https://github.com/exequielpagliari/ValidadorAssetsUnity#readme", // Enlace a la documentación
-  "changelogUrl": "https://github.com/exequielpagliari/ValidadorAssetsUnity/blob/main/CHANGELOG.md", // Enlace al changelog
-  "licensesUrl": "https://github.com/exequielpagliari/ValidadorAssetsUnity/blob/main/LICENSE.md", // Enlace a la licencia
-  "type": "tool" // Indica que es una herramienta, no una biblioteca de runtime
+  "license": "MIT", 
+  "documentationUrl": "https://github.com/exequielpagliari/ValidadorAssetsUnity#readme", 
+  "changelogUrl": "https://github.com/exequielpagliari/ValidadorAssetsUnity/blob/main/CHANGELOG.md", 
+  "licensesUrl": "https://github.com/exequielpagliari/ValidadorAssetsUnity/blob/main/LICENSE.md", 
+  "type": "tool" 
 }
