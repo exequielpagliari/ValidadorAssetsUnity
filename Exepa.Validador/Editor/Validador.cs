@@ -23,7 +23,7 @@ public class Validador : AssetPostprocessor
 
             if (_validationRules == null)
             {
-                Debug.LogError("[Validation] ValidationRules_SO not found! Please create one at Assets/EditorTools/AssetValidation/Resources/ProjectValidationRules.asset");
+                Debug.LogError("[Validation] ValidationRules_SO not found! Please create one at Assets/Editor/ProjectValidationRules.asset");
                 // Crea una instancia temporal si no se encuentra para evitar NullReferenceException
                 _validationRules = ScriptableObject.CreateInstance<ValidationRules_SO>();
             }

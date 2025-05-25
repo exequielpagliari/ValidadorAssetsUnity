@@ -16,6 +16,7 @@ MonoBehaviour:
   - .png
   - .jpg
   - .jpeg
+  - .bmp
   allowedAudioExtensions:
   - .wav
   - .ogg
@@ -41,9 +42,9 @@ MonoBehaviour:
   - nameContains: _Mask
     textureType: 0
     sRGB: 0
-  - nameContains: _Mask
-    textureType: 0
-    sRGB: 0
+  - nameContains: _UI
+    textureType: 2
+    sRGB: 1
   enforcePowerOfTwoTextureSizes: 1
   maxTextureSize: 2048
   requiredModelScale: 1

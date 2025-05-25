@@ -305,7 +305,7 @@ public class ModelAssetDataEditor : Editor
             EditorUtility.SetDirty(_targetModelData);
             AssetDatabase.SaveAssets();
             AssetDatabase.Refresh();
-            Debug.Log($"Icon successfully set from Model Prefab for {_targetModelData.name}.");
+            //Debug.Log($"Icon successfully set from Model Prefab for {_targetModelData.name}.");
         }
         else
         {
@@ -476,6 +476,8 @@ public class ModelAssetDataEditor : Editor
         EditorUtility.SetDirty(_targetModelData); // Marca el SO como modificado para guardar la referencia
         AssetDatabase.SaveAssets(); // Guarda el asset para que persista
     }
+
+
 }
 
 // Clase de extensión para permitir .Forget() en Task
