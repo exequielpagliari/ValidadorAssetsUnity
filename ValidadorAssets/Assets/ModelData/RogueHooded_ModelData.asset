@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c416452ae1982d242a8bffd6a9f76477, type: 3}
+  m_Name: RogueHooded_ModelData
+  m_EditorClassIdentifier: 
+  ModelPrefab: {fileID: 919132149155446097, guid: ed9fcff59db477842a39da9222a637a3, type: 3}
+  Materials:
+  - {fileID: 7205189804858053933, guid: ed9fcff59db477842a39da9222a637a3, type: 3}
+  CustomIconSprite: {fileID: 0}
+  MainAlbedoTexture: {fileID: 2800000, guid: 59489a71df8eb154ea93773846b4ebdc, type: 3}
+  ModelID: 9783d55a-23ce-48a9-bff9-56ce3566e1c4
+  ModelName: RogueHooded
+  Description: "Una breve descripci\xF3n del modelo y sus caracter\xEDsticas."
+  IsAudited: 0
+  LastModifiedDate: 2025-05-25 10:49:38
+  Author: Unknown
+  Tags: []
+  InternalNotes: 

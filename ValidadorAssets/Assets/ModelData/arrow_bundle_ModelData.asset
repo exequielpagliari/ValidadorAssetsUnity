@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c416452ae1982d242a8bffd6a9f76477, type: 3}
+  m_Name: arrow_bundle_ModelData
+  m_EditorClassIdentifier: 
+  ModelPrefab: {fileID: 919132149155446097, guid: 2d9d83ca121b4c54686b27adff0f14b9, type: 3}
+  Materials:
+  - {fileID: 7205189804858053933, guid: 2d9d83ca121b4c54686b27adff0f14b9, type: 3}
+  CustomIconSprite: {fileID: 0}
+  MainAlbedoTexture: {fileID: 2800000, guid: e328b3f9e1bd20e4caf901bc353dea8a, type: 3}
+  ModelID: c3235aaa-da60-4633-8542-061d20515048
+  ModelName: arrow_bundle
+  Description: "Una breve descripci\xF3n del modelo y sus caracter\xEDsticas."
+  IsAudited: 0
+  LastModifiedDate: 2025-05-25 10:54:33
+  Author: Unknown
+  Tags: []
+  InternalNotes: 

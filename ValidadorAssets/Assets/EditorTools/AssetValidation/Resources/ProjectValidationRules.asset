@@ -45,11 +45,11 @@ MonoBehaviour:
     textureType: 0
     sRGB: 0
   enforcePowerOfTwoTextureSizes: 1
-  maxTextureSize: 100
+  maxTextureSize: 2048
   requiredModelScale: 1
   allowGenerateColliders: 0
-  maxTrianglesForProp: 100
-  maxVerticesForCharacter: 100
+  maxTrianglesForProp: 10000
+  maxVerticesForCharacter: 10000
   requiredCharacterLayer: Characters
   namingRules:
   - folderPath: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c416452ae1982d242a8bffd6a9f76477, type: 3}
+  m_Name: shield_round_barbarian_ModelData
+  m_EditorClassIdentifier: 
+  ModelPrefab: {fileID: 919132149155446097, guid: 54ffbb6b9d2eed84fb9a612d0630fe0e, type: 3}
+  Materials:
+  - {fileID: -7423125517761585655, guid: 54ffbb6b9d2eed84fb9a612d0630fe0e, type: 3}
+  CustomIconSprite: {fileID: 0}
+  MainAlbedoTexture: {fileID: 2800000, guid: 0e65f2c182f8c224ea8bbbc9d75b7115, type: 3}
+  ModelID: 674376a9-5bac-42db-871b-838741ce35ae
+  ModelName: shield_round_barbarian
+  Description: "Una breve descripci\xF3n del modelo y sus caracter\xEDsticas."
+  IsAudited: 0
+  LastModifiedDate: 2025-05-25 10:49:37
+  Author: Unknown
+  Tags: []
+  InternalNotes: 

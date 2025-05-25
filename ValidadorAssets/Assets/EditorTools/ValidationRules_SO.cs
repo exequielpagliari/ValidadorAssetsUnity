@@ -43,4 +43,6 @@ public class ValidationRules_SO : ScriptableObject
         public string requiredSuffix; // Ej: "_Mesh"
         public bool appliesToFolders = false; // ¿Aplica a carpetas o archivos?
     }
+
+
 }
